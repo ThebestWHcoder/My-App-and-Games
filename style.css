@@ -1,0 +1,18 @@
+body {
+
+    text-align: center;
+    background-color: chartreuse;
+
+}
+
+h1 {
+    font-size: 30px;
+    color: aqua;
+    font-family: cursive;
+
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
